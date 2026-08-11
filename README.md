@@ -1,14 +1,3 @@
-<div align="center" style="font-family: 'Outfit', system-ui, -apple-system, sans-serif;">
-
-  <!-- Hero Background Image Banner -->
-  <a href="https://halohuddin.vercel.app">
-    <img src="./assets/hero-bg.webp" width="100%" alt="Hero Background Showcase" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
-  </a>
-
-</div>
-
-<br />
-
 <div style="font-family: 'Outfit', system-ui, -apple-system, sans-serif;">
 
 <table align="center" width="100%">
@@ -40,13 +29,18 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="./assets/huddin.webp" width="100%" height="160" style="object-fit: cover; border-radius: 8px;" alt="Huddin" />
+    <td width="33%" align="center">
+      <img src="./assets/hero-bg-anim.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Huddin" />
       <br />
-      <sub><b>Sholahuddin Ahmad</b> — Coder & Designer</sub>
+      <sub><b>Its Me</b></sub>
     </td>
-    <td width="50%" align="center">
-      <img src="./assets/magelang.webp" width="100%" height="160" style="object-fit: cover; border-radius: 8px;" alt="Magelang" />
+    <td width="34%" align="center">
+      <img src="./assets/hero-loop.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Hero Loop" />
+      <br />
+      <sub><b>My Skills</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./assets/magelang.webp" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Magelang" />
       <br />
       <sub><b>Magelang</b> — Central Java, ID</sub>
     </td>
