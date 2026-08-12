@@ -9,7 +9,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h2 style="font-family: 'Outfit', sans-serif; margin-top: 0;">👋 Hi, I'm Huddin</h2>
+      <h2 style="font-family: 'Outfit', sans-serif; margin-top: 0;">👋 Halo kak Hudin</h2>
       <p>
         <b>Sholahuddin Ahmad</b> (<i>Huddin</i>) is a programmer based in <b>Magelang, Central Java, ID</b> 📍 — known for clean and expressive code — who also designs the brand.
       </p>
