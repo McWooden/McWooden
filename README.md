@@ -1,5 +1,11 @@
 <div style="font-family: 'Outfit', system-ui, -apple-system, sans-serif;">
 
+<div align="center">
+  <img src="./assets/space-shooter.gif" width="100%" style="border-radius: 8px;" alt="Space Shooter" />
+</div>
+
+<br />
+
 <table align="center" width="100%">
   <tr>
     <td width="65%" valign="top">
@@ -37,12 +43,12 @@
     <td width="34%" align="center">
       <img src="./assets/hero-loop.gif" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Hero Loop" />
       <br />
-      <sub><b>My Skills</b></sub>
+      <sub><b>My Confidence</b></sub>
     </td>
     <td width="33%" align="center">
       <img src="./assets/magelang.webp" width="100%" height="150" style="object-fit: cover; border-radius: 8px;" alt="Magelang" />
       <br />
-      <sub><b>Magelang</b> — Central Java, ID</sub>
+      <sub><b>Home</b> — Central Java, ID</sub>
     </td>
   </tr>
 </table>
